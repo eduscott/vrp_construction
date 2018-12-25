@@ -1,0 +1,44 @@
+Taco (4)
+  4x taco shell
+  1x lettuce
+  1x tomato
+  1x cheese
+  1x beef
+  1x hot sauce
+  
+Taco Shell (4)
+  1x corn
+  1x spice
+  
+Hot Sauce (10)
+  1x water
+  1x spice
+  1x tomato juice
+  
+Tomato Juice (10)
+  1x tomato
+
+----------------
+
+Fried Chicken (4)
+  1x chicken
+  1x batter
+  
+Batter (4)
+  1x corn meal
+  1x buttermilk
+  1x spice
+  1x egg
+  
+Buttermilk (1)
+  4x milk
+  
+Corn Meal (4)
+  1x corn
+  
+----------------
+
+Chicken Sandwich (1)
+  1x chicken filet
+  1x batter
+  1x bread

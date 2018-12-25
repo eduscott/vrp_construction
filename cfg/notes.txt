@@ -1,0 +1,53 @@
+coords
+ x, y, z, loc_name
+
+gravel pit 1     : 2731.9475, 2852.1526, 37.8558, "Davis Quarry"  
+gravel delivery  : 303.8962,  2840.5146, 43.0946, "SCW Harmony"
+cement check in 1: 286.6020,  2843.8125, 44.7041, "SCW Harmony"
+cement pickup 1  : 274.3790,  2883.1167, 43.2566, "SCW Harmony"
+cement check in 2: 1244.2161, 1866.3274, 79.1486, "SCW Senora"
+cement pickup 2  : 1229.5767, 1896.4709, 78.2795, "SCW Senora"
+const delivery 1 : -157.5418, -985.1436, 20.9236, "Mile High Club"
+const delivery 2 : -472.6753, -1008.136, 23.1937, "Calais Ave" 
+const delivery 3 : 81.5444,   -334.8227, 43.1294, "Power St"
+const delivery 4 : 56.4469,   -421.5430, 39.5667, "Power St"
+const delivery 5 : 321.4464,  -1899.034, 26.0348, "Carson Ave Tunnel"
+const delivery 6 : 33.9752,   -611.4423, 31.2764, "UD Subway Project"
+const delivery 7 : 1397.3392, -756.4749, 66.9091, "Mirror Park"
+steel beam del 1 : -141.4518, -1002.455, 26.9216, "Mile High Club"
+steel beam del 2 : -204.0301, -1098.699, 21.4023, "Mile High Club"
+steel beam del 3 : -454.2738, -986.4075, 23.1923, "Calais Ave"
+steel beam del 4 : 134.8626,  -376.4774, 24.9039, "Power St"
+steel beam del 5 : 47.4922,   -446.9142, 39.5662, "Power St"
+steel beam del 6 : 321.4464,  -1899.034, 26.0348, "Carson Ave Tunnel"
+steel beam del 7 : 33.9752,   -611.4423, 31.2764, "UD Subway Project"
+lumber delivery 1: 1397.3392, -756.4749, 66.9091, "Mirror Park"  // maybe
+lumber creation: -510.9757, 5259.6533, 80.1979, "Paleto Sawmill"
+
+vehicles for goods
+
+steel:  trailers
+cement: mixer2, mixer
+gravel: rubble(16t) , tiptruck2(16t) , tiptruck (10t)
+
+weights:
+stone: 0.2kg per unit
+gravel: 0.15kg per unit
+sand
+gravel needed for 1m^3 of cement: 2100kg
+cement: 1m^3 = 2406kg  
+cement truck: 7.60m^3 max cap
+
+website for reference:
+https://www.traditionaloven.com/conversions_of_measures/concrete-weight.html
+
+
+recipe for concrete:
+sand: 689 kg
+gravel: 1252 kg
+water: 165 kg
+cement: 300 kg
+
+recipe for cement (powder):
+stone: 300 kg = 200 kg cement
+
